@@ -1,0 +1,25 @@
+C:\Users\kcs\Desktop\OS assign\Assign\Assign\bin\Debug\Assign.exe.config
+C:\Users\kcs\Desktop\OS assign\Assign\Assign\bin\Debug\Assign.exe
+C:\Users\kcs\Desktop\OS assign\Assign\Assign\bin\Debug\Assign.pdb
+C:\Users\kcs\Desktop\OS assign\Assign\Assign\obj\Debug\Assign.csprojAssemblyReference.cache
+C:\Users\kcs\Desktop\OS assign\Assign\Assign\obj\Debug\Assign.Form1.resources
+C:\Users\kcs\Desktop\OS assign\Assign\Assign\obj\Debug\Assign.Properties.Resources.resources
+C:\Users\kcs\Desktop\OS assign\Assign\Assign\obj\Debug\Assign.csproj.GenerateResource.cache
+C:\Users\kcs\Desktop\OS assign\Assign\Assign\obj\Debug\Assign.csproj.CoreCompileInputs.cache
+C:\Users\kcs\Desktop\OS assign\Assign\Assign\obj\Debug\Assign.exe
+C:\Users\kcs\Desktop\OS assign\Assign\Assign\obj\Debug\Assign.pdb
+D:\eng\3rd year\Second Term\Operating Systems\assignments\CPU-SCHEDULER\OS assign\Assign\Assign\bin\Debug\Assign.exe.config
+D:\eng\3rd year\Second Term\Operating Systems\assignments\CPU-SCHEDULER\OS assign\Assign\Assign\obj\Debug\Assign.exe
+D:\eng\3rd year\Second Term\Operating Systems\assignments\CPU-SCHEDULER\OS assign\Assign\Assign\obj\Debug\Assign.pdb
+D:\eng\3rd year\Second Term\Operating Systems\assignments\CPU-SCHEDULER\OS assign\Assign\Assign\bin\Debug\Assign.exe
+D:\eng\3rd year\Second Term\Operating Systems\assignments\CPU-SCHEDULER\OS assign\Assign\Assign\bin\Debug\Assign.pdb
+D:\eng\3rd year\Second Term\Operating Systems\assignments\CPU-SCHEDULER\OS assign\Assign\Assign\bin\Debug\mscorlib.dll
+D:\eng\3rd year\Second Term\Operating Systems\assignments\CPU-SCHEDULER\OS assign\Assign\Assign\bin\Debug\normidna.nlp
+D:\eng\3rd year\Second Term\Operating Systems\assignments\CPU-SCHEDULER\OS assign\Assign\Assign\bin\Debug\normnfc.nlp
+D:\eng\3rd year\Second Term\Operating Systems\assignments\CPU-SCHEDULER\OS assign\Assign\Assign\bin\Debug\normnfd.nlp
+D:\eng\3rd year\Second Term\Operating Systems\assignments\CPU-SCHEDULER\OS assign\Assign\Assign\bin\Debug\normnfkc.nlp
+D:\eng\3rd year\Second Term\Operating Systems\assignments\CPU-SCHEDULER\OS assign\Assign\Assign\bin\Debug\normnfkd.nlp
+D:\eng\3rd year\Second Term\Operating Systems\assignments\CPU-SCHEDULER\OS assign\Assign\Assign\obj\Debug\Assign.csprojResolveAssemblyReference.cache
+D:\eng\3rd year\Second Term\Operating Systems\assignments\CPU-SCHEDULER\OS assign\Assign\Assign\obj\Debug\Assign.Form1.resources
+D:\eng\3rd year\Second Term\Operating Systems\assignments\CPU-SCHEDULER\OS assign\Assign\Assign\obj\Debug\Assign.Properties.Resources.resources
+D:\eng\3rd year\Second Term\Operating Systems\assignments\CPU-SCHEDULER\OS assign\Assign\Assign\obj\Debug\Assign.csproj.GenerateResource.Cache
